@@ -1,0 +1,4 @@
+scores.csv
+venv/
+__pycache__/
+.vscode/
